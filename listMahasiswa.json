@@ -1,0 +1,57 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 180823453,
+      "nama": "Mahasiswa 1",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "081802023249",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "NIM": 140823453,
+      "nama": "Mahasiswa X",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "081802023523",
+      "angkatan": 2014,
+      "status": "lulus"
+    },
+    {
+      "id": 1678449648918,
+      "NIM": "16170220443",
+      "nama": "Ardian Bhagaskara",
+      "alamat": "Pasuruan",
+      "hp": "083117440772",
+      "angkatan": "2016",
+      "status": "Lulus"
+    },
+    {
+      "NIM": "2041720180",
+      "id": 1679380219382,
+      "nama": "Anjani Dwilestari",
+      "alamat": "Pasuruan",
+      "hp": "085231404775",
+      "angkatan": "2020",
+      "status": "Aktif"
+    },
+    {
+      "NIM": "2041720180",
+      "id": 1679384655585,
+      "nama": "Anjani Dwilestari",
+      "alamat": "Pasuruan",
+      "hp": "085231404775",
+      "angkatan": "2020",
+      "status": "Aktif"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
